@@ -1,0 +1,23 @@
+.h100 {
+    height: 100vh;
+}
+.caro-item {
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.caro1 {
+    background-image: url('https://www.worldatlas.com/r/w728-h425-c728x425/upload/66/14/d8/kangchenjunga.jpg');
+}
+.caro2 {
+    background-image: url('https://outdoorgearlab-mvnab3pwrvp3t0.stackpathdns.com/photos/15/81/279616_31645_L2.jpg');
+}
+.caro3 {
+    background-image: url('https://www.worldatlas.com/r/w728-h425-c728x425/upload/35/9a/4a/shutterstock-575340148.jpg');
+}
+.my-nav {
+    height: 25vh;
+    background: rgba(128, 128, 128, 0.609);
+    z-index: 1000;
+}
